@@ -1,0 +1,40 @@
+----------------------
+Top 3 products by average ratings, review counts
+----------------------
+Id: B000NAZKCA; Name: Calmoseptine diaper rash ointment tube - 4 oz, 6 pack; Category: Baby.txt.gz; Sum of ratings: 130.0; No of ratings: 26; Average rating: 5.0; Price: 37.83
+Id: B0006IRTDM; Name: Melissa & Doug Golden Retriever Plush; Category: Toys_&_Games.txt.gz; Sum of ratings: 130.0; No of ratings: 26; Average rating: 5.0; Price: 36.51
+Id: B00005CFAO; Name: Mega Bloks - ProBuilder - 9775 - Sea Wolf; Category: Toys_&_Games.txt.gz; Sum of ratings: 120.0; No of ratings: 24; Average rating: 5.0; Price: 229.95
+----------------------
+
+
+
+----------------------
+Top 3 by review counts
+----------------------
+Id: B0009B0IX4; Name: Plantronics Voyager 510 Bluetooth Headset [Retail Packaging]; Category: Cell_Phones_&_Accessories.txt.gz; Sum of ratings: 14329.0; No of ratings: 3443; Average rating: 4.161777519604995; Price: 89.99
+Id: B00009WO07; Name: Pampers Baby Dry Diapers (Packaging May Vary); Category: Baby.txt.gz; Sum of ratings: 10214.0; No of ratings: 2542; Average rating: 4.018095987411487; Price: 19.99
+Id: B00026442M; Name: Pampers Baby Dry Diapers (Packaging May Vary); Category: Baby.txt.gz; Sum of ratings: 10198.0; No of ratings: 2538; Average rating: 4.01812450748621; Price: 47.19
+----------------------
+
+
+
+----------------------
+Frequency ratings of the first 3 items
+----------------------
+Rating frequency of the product B00064MUL2
+4.0:2
+
+Rating frequency of the product B000TDGXRW
+5.0:11
+4.0:3
+3.0:1
+
+Rating frequency of the product B000LEI7RS
+5.0:3
+4.0:2
+2.0:1
+
+----------------------
+
+
+
