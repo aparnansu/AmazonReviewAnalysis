@@ -1,5 +1,5 @@
 Main program is start_project.py
-#Dataset file is not present. It can be downloaded from this link: http://snap.stanford.edu/data/web-Amazon-links.html.
+#Dataset file is not present here. It can be downloaded from this link: http://snap.stanford.edu/data/web-Amazon-links.html.
 Include this path in "dirPath" variable in the program.
 
 List of options:
